@@ -1,6 +1,9 @@
 # Arma-3-Cherno-Map-Additions
 Multiple map additions I have made for Cherno on Arma 3
 
+You can see them here
+http://epochmod.com/forum/index.php?/topic/30027-devils-playground-new-server-looking-for-players-starting-bonus-to-get-players-going/
+
 I didn’t make the delivery method for the map additions (the PBO structure), I can’t remember who made that (if someone can let me know I’ll credit them) but the map additions are all mine with 100% of the work created by myself.
 
 It’s a sad day that my server lost all its players very quickly and has given me a reason to release these files as I no longer want to run the server. There is hundreds of hours’ worth of work in these and I ask that you leave the credits in the files and credit my work where required please. It’s painful to release but I see no benefit in keeping these for my server only so there is some joy in the fact more people will get to play on them.
